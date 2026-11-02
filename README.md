@@ -1,5 +1,6 @@
 # 🩺 DevPulse
 
+<img width="1092" height="582" alt="Capture d&#39;écran 2026-11-01 184603" src="https://github.com/user-attachments/assets/50196ed5-88cf-478d-af13-abf2a5b3898e" />
 
 
 
