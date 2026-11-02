@@ -1,6 +1,9 @@
 # 🩺 DevPulse
 
-<img width="1092" height="582" alt="Capture d&#39;écran 2026-11-01 184603" src="https://github.com/user-attachments/assets/bd165cf6-29e5-4272-9ea5-e42e5fbcf617" />
+
+
+
+https://github.com/user-attachments/assets/323ebb0d-98d5-49d6-9cf4-5bf13993fcb2
 
 
 **A terminal dashboard that keeps your dev environment healthy.**
